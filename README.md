@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Leo from China.<br><br>- 🔭 I’m working as backend development engineer.<br>- 📚 I'm currently learning Rust at the moment.<br>- ⚡ In my free time I enjoy cycling and playing basketball.</p>
+<p align="left">I'm Leo from China.<br><br>- 🔭 I’m working as backend development engineer.<br>- 📚 I'm currently exploring vibe coding and familiar with Cloudflare.<br>- ⚡ In my free time I enjoy cycling and playing basketball.</p>
 
 ###
 
